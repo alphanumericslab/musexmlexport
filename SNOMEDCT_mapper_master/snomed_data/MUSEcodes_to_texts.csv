@@ -1,0 +1,691 @@
+STATEMENT NOT FOUND,1
+** * Pediatric ECG analysis * **,2
+** ** ** ** * Pediatric ECG Analysis * ** ** ** **,2
+-------------------- PEDIATRIC ECG INTERPRETATION --------------------,2
+-------------------- Pediatric ECG interpretation --------------------,2
+*** Age and gender specific ECG analysis ***,3
+*** AGE AND GENDER SPECIFIC ECG ANALYSIS ***,3
+Age and gender specific software,3
+** Acute Cardiac Syndrome criteria **,4
+Report dictated- transcription pending,5
+Leads V2- V3- V4- and V6 are interpolated,6
+Waveform is valid only when viewed in 4x2.5 format with lead II as the rhythm lead,8
+Only the first 5 seconds of lead I are valid,9
+Reserved for Database Conversion,10
+Reserved for Database Conversion,11
+Reserved for Database Conversion,12
+The system removed serial comparison statements because,13
+this ECG was not analyzed with 12SL,14
+the 1st previous ECG was not analyzed with 12SL,15
+this patient has a test analyzed with the HEART algorithm,16
+Sinus rhythm,19
+SINUS RHYTHM,19
+(Atrial rate=,20
+1st,21
+SINUS BRADYCARDIA,21
+Sinus Bradycardia,21
+Normal sinus rhythm,22
+SINUS TACHYCARDIA,23
+Sinus tachycardia,23
+Marked sinus bradycardia,24
+Low right atrial bradycardia,25
+Low right atrial tachycardia,26
+Left atrial bradycardia,27
+Left atrial tachycardia,28
+Low light atrial rhythm,29
+Left atrial rhythm,30
+(no P-waves found),31
+blocked,32
+Blocked,32
+Accelerated,33
+Junctional bradycardia,34
+Unusual P axis and short PR- probably junctional bradycardia,41
+Unusual P axis and short PR- probable junctional bradycardia,41
+Unusual P axis and short PR- probably junctional rhythm,42
+Unusual P axis and short PR- probable junctional rhythm,42
+Unusual P axis and short PR- probably junctional tachycardia,43
+Unusual P axis and short PR- probable junctional tachycardia,43
+Unusual P axis- possible ectopic atrial bradycardia,61
+Unusual P axis- possible ectopic atrial rhythm,62
+Unusual P axis- possible ectopic atrial tachycardia,63
+Ectopic atrial rhythm,64
+ECTOPIC ATRIAL RHYTHM,64
+PR interval,100
+with 1st degree AV block,101
+  with pronounced 1st degree AV block,101
+FIRST DEGREE AV BLOCK,101
+ 1st AV block,101
+ 1st AVB,101
+ 1st degree AV Block,101
+ 1st degree AV block,101
+ 1st degree block,101
+  first degree ABV block,101
+with 1st degree A-V block,101
+with short PR,102
+with 2nd degree AV block (Mobitz I),103
+ 2nd degree AV block Type I,103
+with 2nd degree A-V block (Mobitz I),103
+with 2nd degree AV block (Mobitz II),104
+with 2nd degree A-V block (Mobitz II),104
+MOBITZ II AV BLOCK,104
+Second degree AV block- Mobitz II,104
+with 2nd degree AV block,105
+with 2nd degree A-V block,105
+SECOND DEGREE AV BLOCK,105
+with complete heart block,106
+with variable AV block,107
+with variable A-V block,107
+with AV dissociation,108
+with A-V dissociation,108
+AV DISSOCIATION,108
+AV dissociation,108
+with 2nd degree SA block (Mobitz II),111
+with 2nd degree SA block (Mobitz I),112
+with sinus pause,113
+Sinus pause,113
+with 2:1 AV conduction,141
+with 2:1 A-V conduction,141
+with 3:1 AV conduction,142
+with 3:1 A-V conduction,142
+with 4:1 AV conduction,143
+with 4:1 A-V conduction,143
+with 5:1 AV conduction,144
+with 5:1 A-V conduction,144
+Atrial fibrillation,161
+ Atrial Fibrillation,161
+ Atrial fibrillation,161
+ Atrial fibrillation has replaced normal sinus rhtyhm,161
+  Underlying atrial fibrillation,161
+  Atrial fibrillation has replaced sinus rhythm,161
+   atrial fib still present,161
+ATRIAL FIBRILLATION,161
+Atrial flutter,162
+Coarse,163
+Atrialtachycardia,164
+with rapid ventricular response,171
+with slow ventricular response,172
+with premature ventricular or aberrantly conductedcomplexes,173
+with a competing junctional pacemaker,174
+with undetermined rhythm irregularity,175
+Irregular,176
+with,177
+or,178
+and,179
+with premature ventricular or aberrantly conducted complexes,181
+atrial-pacedcomplexes,183
+atrial-paced complexes,183
+ATRIAL-PACED COMPLEXES,183
+ventricular-pacedcomplexes,184
+VENTRICULAR-PACED COMPLEXES,184
+Ventricular-paced complexes,184
+  and paced ventricular beats,184
+ventricular-paced complexes,184
+AV dual-paced complexes,185
+ATRIAL-VENTRICULAR DUAL-PACED COMPLEXES,185
+atrial-sensed ventricular-pacedcomplexes,186
+ATRIAL-SENSED VENTRICULAR-PACED COMPLEXES,186
+Atrial-sensed ventricular-paced complexes,186
+sinus complexes,187
+supraventricular complexes,188
+intrinsic complexes,189
+with prolonged AV conduction,190
+with occasional,211
+with frequent,212
+premature supraventricular complexes,221
+Premature supraventricular complexes,221
+premature atrial complexes,222
+Premature atrial complexes,222
+  frequent pacs,222
+  pacs,222
+ATRIAL PREMATURE COMPLEX,222
+Atrial premature complex,222
+Atrial premature complexes,222
+premature junctional complexes,223
+Premature junctional complexes,223
+premature ventricular complexes,231
+  with PVCs,231
+  and several PVCs,231
+  as well as a single PVC,231
+  and multiple PVCs,231
+VENTRICULAR PREMATURE COMPLEX,231
+   and a PVC,231
+   with a single PVC,231
+Ventricular premature complex,231
+premature ventricular and fusion complexes,232
+premature ventricular and fusion complexes,232
+and consecutive,233
+in a pattern of bigeminy,234
+Wide QRS tachycardia,235
+  Wide Complex Tachycardia ,235
+Wide-QRS tachycardia,235
+Narrow QRS tachycardia,236
+Wide QRS rhythm,237
+Idioventricularrhythm,238
+Idioventricular rhythm,238
+premature ectopic complexes,241
+Premature ectopic complexes,241
+with junctional escape complexes,242
+with ventricular escape complexes,243
+fusion complexes,244
+Fusion complexes,244
+with retrograde conduction,245
+aberrant conduction,246
+Aberrant conduction,246
+sinus/atrial capture,247
+Sinus/atrial capture,247
+Ventriculartachycardia,248
+Ventricular tachycardia,248
+Ventricularfibrillation,249
+Ventricular fibrillation,249
+with sinus arrhythmia,251
+Sinus arrhythmia,251
+     Sinus arrhtymia is now present,251
+with marked sinus arrhythmia,252
+with marked sinus arrythmia,252
+Probably sinus bradycardia- verify AV conduction,265
+Supraventriculartachycardia,266
+SUPRAVENTRICULAR TACHYCARDIA,266
+Supraventricular tachycardia,266
+Junctionalrhythm,267
+Junctional rhythm,267
+Idioventricular rhythm with AV block,268
+Ventricularrhythm,269
+Juncationaltachycardia,270
+Supraventriculartachycardia,271
+Ventricular tachycardia (ventricular or 
+supraventricular with aberration),272
+Atrial flutter,273
+with ventricular fusion,274
+with junctional escape,275
+with escape beat,276
+with transient ventricular tachycardia,277
+with Mobitz I (Wenckebach) block,278
+MOBITZ I AV BLOCK (WENCKEBACH),278
+Second deg AVB- Mobitz I (Wenckebach),278
+Possible wandering atrial pacemaker,279
+Multifocal atrial tachycardia,280
+Complete heart block,281
+Suspect AV conduction defect,282
+with intermittent aberrant ventricular conduction,283
+with SA block or transient AV block,284
+with sinus arrest or transient AV block,285
+Low heart rate- veify AV conduction.,287
+Atrial flutter with 2 to 1 block,288
+Biventricular pacemaker detected,289
+ Biventricular Pacing,289
+ Biventricular capture,289
+ Biventricular capture noted,289
+ Biventricular paced,289
+  Electronic biventricular pacemaker. underlying rhythm is sinus,289
+Electronic ventricular pacemaker,290
+Demand pacemaker- interpretation is based on intrinsic rhythm,291
+Demand pacemaker-  interpretation is based on intrinsic rhythm,291
+Electronic atrial pacemaker,292
+ Atrial pacing,292
+AV sequential or dual chamber electronic pacemaker,293
+  AV sequential pacing is present,293
+Electronic demand pacing,294
+     Electronic demand ventricular pacing is now present,294
+Atrial-paced rhythm,295
+ATRIAL-PACED RHYTHM,295
+Ventricular-pacedrhythm,296
+VENTRICULAR-PACED RHYTHM,296
+Ventricular-paced rhythm,296
+Atrial-sensed ventricular-paced rhythm,297
+ATRIAL-SENSED VENTRICULAR-PACED RHYTHM,297
+Atrial-ventricular dual-paced rhythm,297
+AV dual-paced rhythm,298
+ATRIAL-VENTRICULAR DUAL-PACED RHYTHM,298
+Undetermined rhythm,299
+UNDETERMINED RHYTHM: REVIEW,299
+Ventricular pre-excitation- WPW pattern type A,300
+Ventricular pre-excitation- WPW pattern type B,302
+Vent pre-excit&#39-n(WPW)- right access&#39-y pathway,302
+with fusion or intermittent ventricular pre- excitation (WPW),303
+with fusion or intermittent ventricular pre-excitation (WPW),303
+Wolff-Parkinson-White,304
+Clockwise rotation of the heart- may invalidate criteria for ventricular hypertrophy,305
+Counter clockwise rotation of the heart- may invalidate criteria for ventricular hypertrophy,306
+Dextrocardia,307
+Currentundeterminedrhythmprecludes rhythm comparison- needs review,320
+Current undetermined rhythm precludes rhythm comparison- needs review,320
+Previous ECG has undetermined rhythm- needs review,321
+Vent. rate,322
+Rhythm,323
+The premature contractions,324
+Consecutive,325
+with a demand pacemaker,326
+Basic rhythm,327
+Right atrial enlargement,350
+Left atrial enlargement,360
+Biatrial enlargement,369
+Leftward axis,370
+Abnormal left axis deviation,371
+Left axis deviation,372
+LEFT AXIS DEVIATION,372
+Rightward axis,380
+- Rightward axis- Vertical axis,380
+Abnormal right axis deviation,381
+Abnormal right superior axis deviation,382
+Right axis deviation,383
+RIGHT AXIS DEVIATION,383
+Right superior axis deviation,384
+Indeterminate axis,390
+INDETERMINATE QRS AXIS,390
+Northwest axis,391
+QRS axis,395
+shifted left,396
+Shifted left,396
+shifted right,397
+Shifted right,397
+Low voltage QRS,410
+Pulmonary disease pattern,411
+S1-S2-S3 pattern- consider pulmonary disease- RVH- or normal variant,412
+Brugada pattern- type 1,435
+Brugada pattern- type 2,436
+Brugada pattern- type 3,437
+Right bundle branch block,440
+RIGHT BUNDLE BRANCH BLOCK,440
+- plus right ventricular hypertrophy,441
+Right bundle branch block -or- Right ventricular hypertrophy,442
+Right bundle branch block -or- right ventricular hypertrophy,442
+Incomplete right bundle branch block,445
+INCOMPLETE RIGHT BUNDLE BRANCH BLOCK,445
+INCOMPLETE RIGHT RUNDLE BRANCH BLOCK,445
+.,446
+RSR&#39- or QR pattern in V1 suggests right ventricular conduction delay,450
+RSR' or QR pattern in V1 suggests right ventricular conduction delay,450
+RSR' pattern in V1,451
+RSR&#39- pattern in V1,451
+Left bundle branch block,460
+LEFT BUNDLE BRANCH BLOCK,460
+  LBBB,460
+Incomplete left bundle branch block,465
+INCOMPLETE LEFT BUNDLE BRANCH BLOCK,465
+Left anterior fascicular block,470
+LEFT ANTERIOR FASCICULAR BLOCK,470
+Left posterior fascicular block,471
+LEFT POSTERIOR FASCICULAR BLOCK,471
+(RBBB and left anterior fascicular block),478
+RBBB AND LAFB,478
+RBBB and LAFB,478
+(RBBB and left posterior fascicular block),479
+RBBB AND LPFB,479
+RBBB and LPFB,479
+*** Bifascicular block ***,480
+Trifascicular block,481
+Nonspecific intraventricular block,482
+Non-specific intra-ventricular conduction block,482
+Nonspecific intraventricular conduction delay,487
+Non-specific intra-ventricular conduction delay,NaN
+NON SPECIFIC INTRAVENTRICULAR CONDUCTION DELAY.,487
+NONSPECIFIC INTRAVENTRICULAR CONDUCTION DELAY,487
+Right ventricular hypertrophy,520
+RIGHT VENTRICULAR HYPERTROPHY,520
+Right ventricular hypertrophy with repolarization abnormality,521
+R in AVL,530
+Sokolow-Lyon,531
+Cornell Votage,532
+Cornell Product,533
+Romhilt-Estes,534
+Voltage criteria for left ventricular hypertrophy,540
+LVH BY VOLTAGE,540
+Left ventricular hypertrophy,541
+LVH,541
+LEFT VENTRICULAR HYPERTROPHY,541
+Minimal voltage criteria for LVH- may be normal variant,542
+with QRS widening,543
+with repolarization abnormality,544
+with QRS widening and repolarization abnormality,545
+Moderate voltage criteria for LVH- may be normal variant,548
+Biventricularhypertrophy,570
+Biventricular hypertrophy,570
+Prominent mid-precordial voltage-,571
+Deep Q wave in lead V6-,572
+Prominent posterior voltage,573
+Prominent lateral voltage,574
+Deep Q in lead III,575
+Septal infarct,700
+.,701
+Anterior infarct,740
+Lateral infarct,760
+Inferior infarct,780
+(masked by fascicular block?),782
+with right ventricular involvement,795
+- with posterior extension,800
+Inferior-posteriorinfarct,801
+Posterior infarct,802
+POSTERIOR INFARCT,802
+Increased R/S ratio in V1- consider early transition or posterior infarct,803
+Early transition- increased R/S ratio in V1- consider posterior infarct,803
+Inferior injury pattern suggests right ventricular involvement-recommendadding leads V3r and V4r to confirm,805
+Consider right ventricular involvement in acute inferior infarct,806
+Anteroseptal infarct,810
+Anterolateral infarct,820
+** ** ACUTE MI / STEMI ** **,821
+** ** ACUTE MI / non-STEMI ** **,822
+** ** Consider ACUTE MI if LBBB is new ** **,823
+** ** LBBB with primary ST-T abnormality - Consider ACUTE CORONARY SYNDROME (ACS) ** **,826
+** ** LBBB with primary ST elevation abnormality - PROBABLE ACUTE MI ** **,827
+** ** Consider ACUTE CORONARY SYNDROME (ACS) ** **,828
+** ** ACUTE MI ** **,829
+** ** ** ** * ACUTE MI * ** ** ** **,829
+*** ** ** ** * ACUTE MI  ** ** ** **,829
+- possibly acute,830
+- age undetermined,831
+- old,832
+  Old,832
+  old,832
+- new,833
+Increased evidence of infarction in,840
+Decreased evidence of infarction in,841
+Questionable change in initial forces of,842
+Criteria for,843
+  Criteria for ,843
+(cited on or before,844
+Minimal criteria for,845
+Borderline criteria for,846
+Borderlne criteria for,846
+*** QRS contour suggests infarct size is probably,880
+very small,881
+small,882
+moderate,883
+large,884
+very large,885
+Nonspecific ST abnormality,900
+  and nonspecific ST abnormalities,NaN
+Acute pericarditis,901
+ST elevation- consider early repolarization- pericarditis- or injury,902
+ST elevation- probably due to early repolarization,903
+ST ELEV- PROBABLE NORMAL EARLY REPOL PATTERN,903
+ST elev- probable normal early repol pattern,903
+Nonspecific ST elevation,904
+Septal injury pattern,920
+Anterior injury pattern,930
+Lateral injury pattern,940
+Inferior injury pattern,950
+Anteroseptal injury pattern,960
+Anterolateral injury pattern,961
+Inferolateral injury pattern,962
+ST elevation- consider inferior injury or acute infarct,963
+ST elevation consider inferior injury or acute infarct,963
+ST elevation- consider anterior injury or acute infarct,964
+ST elevation consider anterior injury or acute infarct,964
+ST elevation- considerlateral injury or acute infarct,965
+ST elevation- consider anterolateral injury or acute infarct,966
+ST elevation consider anterolateral injury or acute infarct,966
+ST elevation- consider inferolateral injury or acute infarct,967
+ST elevation consider inferolateral injury or acute infarct,967
+Anterior ST elevation- probably due to LVH,968
+ST elevation- consider injury or variant associated with LVH,968
+Early repolarization,1000
+ Early repolarization,1000
+early repolarization,1000
+WITH EARLY REPOLARIZATION,1000
+EARLY  REPOLORIZATION,1000
+Junctional ST depression- probably normal,1001
+Junctional ST depression- probably abnormal,1002
+ST abnormality- possible digitalis effect,1020
+Nonspecific ST abnormality,1021
+ST depression- consider subendocardial injury or digitalis effect,1022
+Nonspecific ST depression,1023
+NONSPECIFIC ST DEPRESSION,1023
+ST depression- consider subendocardial injury,1024
+Marked ST abnormality- possible septal subendocardial injury,1040
+Marked ST abnormality- possible anterior subendocardial injury,1050
+ ST abnormality- possible anterior subendocardial injury,1050
+Marked ST abnormality- possible lateral subendocardial injury,1060
+Marked ST abnormality- possible inferior subendocardial injury,1070
+Marked ST abnormality- possible inferolateral subendocardial injury,1071
+Marked ST abnormality- possible anteroseptal subendocardial injury,1080
+Marked ST abnormality- possible anterolateral subendocardial injury,1081
+ST depression in,1082
+ST elevation in,1083
+with strain pattern,1084
+ST &,1100
+ST no longer depressed in,1104
+ST less depressed in,1105
+ST more depressed in,1106
+ST now depressed in,1107
+ST depression has replaced ST elevation in,1108
+Questionable change in ST segment,1115
+Non-specific change in ST segment in,1116
+Non-specific change in ST segment in,1117
+ST more elevated in,1120
+ST less elevated in,1121
+ST elevation now present in,1122
+ST no longer elevated in,1123
+ST elevation has replaced ST depression in,1124
+ST abnormality and,1138
+- may be secondary to QRS abnormality,1139
+Nonspecific T wave abnormality,1140
+non-specific t wave abnormality,1140
+NONSPECIFIC T WAVE ABNORMALITY.,1140
+Nonspecific ST and T wave abnormality,1141
+Abnormal QRS-T angle- consider primary T wave abnormality,1142
+Prolonged QT,1143
+Prolonged QT interval,1143
+PROLONGED QT INTERVAL,1143
+Borderline QT interval,1144
+T wave abnormality- consider inferolateral ischemia,1145
+  T wave changes- consider inferior and lateral ischemia. ,1145
+T wave abnormality- consider anterior ischemia,1150
+ABNORMAL T- CONSIDER ISCHEMIA- ANTERIOR LEADS,1150
+Marked T wave abnormality- consider anterior ischemia,1151
+T wave abnormality- consider lateral ischemia,1160
+ABNORMAL T- CONSIDER ISCHEMIA- LATERAL LEADS,1160
+Marked T wave abnormality- consider lateral ischemia,1161
+T wave abnormality- consider inferior ischemia,1170
+ABNORMAL T- CONSIDER ISCHEMIA- INFERIOR LEADS,1170
+Marked T wave abnormality- consider inferior ischemia,1171
+Marked T wave abnormality- consider inferolateral ischemia,1172
+ T wave abnormality- consider inferolateral ischemia,1172
+ T wave abnormality. Consider inferior and anterior ischemia,1172
+Marked T-wave abnormality- consider inferolateral ischemia,1172
+T wave abnormality- consider anterolateral ischemia,1180
+ T wave abnormality c/w anterior and lateral ischemia,1180
+ T wave abnormality- consider anterolateral and inferior ischemia,1180
+ T wave abnormality- consider anterolateral ischemia,1180
+ABNORMAL T- CONSIDER ISCHEMIA- ANT-LAT LEADS,1180
+Marked T wave abnormality- consider anterolateral ischemia,1181
+T wave inversion in,1182
+T-wave inversion in,1182
+T waves,1200
+T wave amplitude has increased in,1201
+T wave amplitude has decreased in,1203
+Flat T waves have replaced inverted T waves in,1207
+Questionable change in T waves,1208
+Flat T waves no longer evident in,1210
+Fewer leads exhibit flat T waves in,1211
+Flat T waves now evident in,1212
+More leads exhibit flat T waves in,1213
+Nonspecific T wave abnormality no longer evident in,1214
+Nonspecific T wave abnormality now evident in,1215
+Nonspecific T wave abnormality- improved in,1216
+Nonspecific T wave abnormality- worse in,1217
+Nonspecific T wave abnormality has replaced inverted T waves in,1218
+Inverted T waves have replaced nonspecific T wave abnormality in,1219
+T wave inversion now evident in,1220
+T wave inversion more evident in,1221
+Inverted T waves have replaced flat T waves in,1222
+T wave inversion less evident in,1223
+T wave inversion no longer evident in,1224
+QT has lengthened,1250
+QT has shortened,1251
+Although rate has decreased,1252
+Although rate has increased,1253
+with rate increase,1254
+with rate decrease,1255
+No previous ECGs available,1300
+No previous ECG,1300
+When compared with ECG of,1301
+When compared with ECG of- ,1301
+Poor data quality in current ECG precludes serial comparison,1302
+Serial comparison not performed- all previous tracings are of poor data quality,1303
+Warning: demographic data different,1304
+No significant change was found,1305
+(Unconfirmed),1306
+*** Critical Test Result:,1340
+High HR,1342
+Low HR,1343
+Long QTc,1346
+STEMI,1360
+ACS / Ischemia,1361
+AV Block,1362
+Arrhythmia,1363
+and,1400
+however,1401
+however it,1402
+Less frequent,1403
+More frequent,1404
+is no longer,1405
+is now,1406
+has changed,1407
+has not changed,1408
+are now,1409
+present,1410
+have not changed,1411
+have changed,1412
+has replaced,1415
+has increased,1416
+has decreased,1417
+are no longer,1418
+QRS,1419
+QRS duration,1420
+QRS voltage,1421
+Questionable change in,1422
+Acute,1423
+Serial changes of evolving,1424
+Serial changes of,1425
+Significant changes have occurred,1426
+Manual comparison required- data off line and on volume,1427
+Manual comparison required for analog tracing,1428
+Manual comparison required- cannot contact main system,1430
+Septal leads,1450
+Anterior leads,1451
+Lateral leads,1452
+Inferior leads,1453
+Posterior leads,1454
+Anteroseptal leads,1455
+Anterior-septal leads,1455
+Anterolateral leads,1456
+Anterior-lateral leads,1456
+Inferoposteriorleads,1457
+Inferoposterior leads,1457
+Inferolateral leads,1458
+Reciprocal,1459
+ECG interpretation of ACS is based on presence of symptoms and,1460
+ECG not diagnostic for Acute Coronary Syndrome,1462
+Poor data quality,1500
+Powerline interference,1501
+Baseline wander,1502
+Muscle tremor,1503
+Electrode noise,1504
+disconnected,1505
+in lead,1510
+in leads,1511
+NAP,1537
+NST,1538
+NAX,1539
+RA,1540
+LA,1541
+RL,1542
+LL,1543
+Limb lead,1544
+H,1545
+E,1546
+I,1547
+M,1548
+I,1550
+II,1551
+V1,1552
+V2,1553
+V3,1554
+V4,1555
+V5,1556
+V6,1557
+V7,1558
+V8,1559
+V9,1560
+V2r,1562
+V3r,1563
+V4r,1564
+V5r,1565
+V6r,1566
+V7r,1567
+V8r,1568
+V9r,1569
+A1,1570
+A2,1571
+A3,1572
+A4,1573
+III,1574
+aVR,1575
+aVL,1576
+aVF,1577
+mVR,1578
+D,1579
+A,1580
+J,1581
+X,1582
+Y,1583
+Z,1584
+mY,1585
+mZ,1586
+CC5,1587
+CM5,1588
+R,1601
+L,1602
+N,1603
+F,1604
+C1,1605
+C2,1606
+C3,1607
+C4,1608
+C5,1609
+C6,1610
+C7,1611
+C8,1612
+C9,1613
+C2r,1615
+C3r,1616
+C4r,1617
+C5r,1618
+C6r,1619
+C7r,1620
+C8r,1621
+C9r,1622
+(,1665
+),1666
+*** Suspect unspecified pacemaker failure,1669
+- probably digitalis effect,1670
+or digitalis effect,1671
+*** Suspect arm lead reversal- interpretation assumes no reversal,1672
+  The arm leads are probably reversen--interpretation takes this into account,1672
+*** Suspect armleadreversal- interpretation assumes no reversal,1672
+*** Poor data quality- interpretation may be adversely affected,1673
+Acquisition hardware fault prevents reliable analysis- carefully check ECG record before interpreting,1674
+Manual reading required due to inconsistent morphologies,1675
+** Less than 4QRS complexes detected- no interpretation possible **,1676
+*** Less than 4 QRS complexes detected- no interpretation possible,1676
+** Less than 4 QRS complexes detected- no interpretation possible **,1676
+*** Memory allocation failure- no ECG interpretation possible ***,1677
+** No QRS complexes found- no ECG analysis possible **,1678
+*** No QRS complexes found- no ECG analysis possible,1678
+** Nonstandard lead placement- ECG interpretation not available **,1679
+Possible,1680
+Cannot rule out,1682
+-,1683
+Normal ECG,1684
+  normal ecgl,1684
+  normal ekg,1684
+NORMAL ECG,1684
+      Normal EKG,1684
+NORMAL EKG.,1684
+Otherwise normal ECG,1687
+  otherwise normal EKG   ,1687
+   but otherwise normal,1687
+OHERWISE NORMAL,1687
+Borderline ECG,1693
+Borderline,1694
+Abnormal ECG,1699

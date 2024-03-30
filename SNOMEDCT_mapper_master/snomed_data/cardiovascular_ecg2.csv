@@ -1,0 +1,804 @@
+long q t syndrome,111975006
+long qt syndrome,111975006
+prolonged q t interval syndrome,111975006
+high output heart failure,10091002
+parasystole,10164001
+parasystolic beat,10164001
+chronic right sided heart failure,10335000
+multifocal premature ventricular complexes,10626002
+multifocal pvcs,10626002
+acute congestive heart failure,10633002
+bigeminal rhythm,11157007
+ventricular bigeminy,11157007
+bouveret hoffmann syndrome,12026006
+essential paroxysmal tachycardia,12026006
+paroxysmal tachycardia,12026006
+pt paroxysmal tachycardia,12026006
+sinoatrial arrest with nodal ventricular escape,13395001
+dressler beats,13640000
+fusion beats,13640000
+right bundle branch block posterior fascicular block and incomplete left bundle branch block,14718009
+cardiac arrest after obstetrical surgery and or other procedure including delivery,16574001
+accelerated atrioventricular conduction,16797001
+accessory atrioventricular conduction,16797001
+pre excitation atrioventricular conduction,16797001
+ventricular ectopic beats,17338001
+ventricular extrasystoles,17338001
+ventricular premature beats,17338001
+ventricular premature contractions,17338001
+ventricular premature systoles,17338001
+atrial arrhythmia,17366009
+anomalous atrioventricular excitation,17869006
+recurrent rheumatic heart disease,20005002
+bilateral bundle branch block,20143001
+low ventricular voltage,20329001
+romano ward syndrome,20852007
+impending infarction,25106000
+low output heart failure,25544003
+chronic ectopic atrial tachycardia,26950008
+unifocal premature ventricular complexes,27337007
+unifocal pvcs,27337007
+left ventricular s t changes,27649004
+left ventricular st changes,27649004
+narrow qrs complex,28630001
+shortened qrs complex,28630001
+ectopic rhythm,29320008
+axis perpendicular to frontal plane,29489007
+extrasystolic arrhythmia,29717002
+vagal autonomic bradycardia,29894000
+vagal bradycardia,29894000
+rbbb right bundle branch block with left anterior fascicular block,30667004
+right bundle branch block and left anterior fascicular block,30667004
+right bundle branch block with left anterior fascicular block,30667004
+right bundle branch block anterior fascicular block and posterior fascicular block,32425009
+right bundle branch block with left bundle branch block,32758004
+right bundle branch block with left main stem bundle branch block,32758004
+indeterminate axis by ekg,32775005
+indeterminate axis by electrocardiogram,32775005
+ectopic rhythm abnormality,33413000
+postvalvulotomy syndrome,33644002
+cardiac tamponade,35304003
+pericardial tamponade,35304003
+sick sinus syndrome,36083008
+lafb left anterior fascicular block,37760005
+left anterior hemiblock,37760005
+interpolated pvcs,38274001
+interpolated ventricular premature complexes,38274001
+right bundle branch block anterior fascicular block and incomplete left bundle branch block,38566003
+paroxysmal atrial tachycardia with block,39357005
+lad left axis deviation,39732003
+left axis deviation,39732003
+cardiac fibrillation,40593004
+right bundle branch block anterior fascicular block and incomplete posterior fascicular block,41863008
+left ventricular right atrial communication,41893002
+right sided atrium connecting to left ventricle,41893002
+ccf congestive cardiac failure,42343007
+chf congestive heart failure,42343007
+congestive cardiac failure,42343007
+congestive heart disease,42343007
+congestive heart failure,42343007
+anterolateral infarction by ekg,43630006
+anterolateral infarction by electrocardiogram,43630006
+mechanical complication due to heart valve prosthesis,43873004
+right bundle branch block and incomplete left bundle branch block,43906007
+low cardiac output syndrome,44088000
+right heart failure secondary to left heart failure,44313006
+persistent sinus bradycardia,44602002
+conduction disorder of the heart,44808001
+disorder of heart conduction,44808001
+right ventricular s t changes,44998009
+right ventricular st changes,44998009
+embryocardia,46220003
+tic tac rhythm,46220003
+rbbb right bundle branch block with left posterior fascicular block,46319007
+right bundle branch block and left posterior fascicular block,46319007
+right bundle branch block with left posterior fascicular block,46319007
+congenital heart block,46619002
+rad right axis deviation,47665007
+right axis deviation,47665007
+moderate right deviation of electric axis,47665007
+chronic heart failure,48447003
+severe sinus bradycardia,49044005
+ventricular rhythm,49260003
+shortened pr interval,49578007
+p-r period shorten,49578007
+atrioventricular dissociation,50799005
+interference dissociation,50799005
+isorhythmic dissociation,50799005
+wenckebach's incomplete av block,54016002
+wenckebach's phenomenon,54016002
+lown ganong levine syndrome,55475008
+lown ganong levine syndrome,55475008
+syndrome of short p r interval normal qrs complexes and supraventricular tachycardias,55475008
+cardiac failure after obstetrical surgery and or other procedure including delivery,55565007
+s t changes,55930002
+st segment changes,55930002
+prolonged st segment,56260006
+disorder of heart,56265001
+morbus cordis,56265001
+acute heart failure,56675007
+ventricular inversion,56743000
+rbbb right bundle branch block,59118001
+right bundle branch block,59118001
+right fascicular block,59118001
+ventricular parasystole,59272004
+decreased ekg voltage,59462000
+decreased electrocardiogram voltage,59462000
+inverted t wave,59931005
+t wave inversion,59931005
+t inversion,59931005
+coronary sinus rhythm disorder,60423000
+sinus node dysfunction,60423000
+thyrotoxic heart disease,60446003
+cardiac insufficiency following cardiac surgery,60856006
+accelerated idioventricular rhythm,61277005
+counterclockwise vectorcardiographic loop,61721007
+multifocal extrasystoles,63232000
+multifocal premature beats,63232000
+supraventricular extrasystoles,63593006
+supraventricular premature beats,63593006
+supraventricular premature contraction,63593006
+frequent premature supraventricular contractions,63593006 
+sinoatrial block,65778007
+interatrial conduction block,65778007
+incomplete interatrial conduction block,65778007
+non-specific interatrial conduction block,65778007
+sinoatrial exit block,65778007
+sinoauricular block,65778007
+right bundle branch block posterior fascicular block and incomplete anterior fascicular block,66568003
+flattened t wave,66812002
+chronic right sided congestive heart failure,66989003
+paroxysmal supraventricular tachycardia,67198005
+auricular dilatation,68583001
+dilated auricle,68583001
+shortened st interval,69318006
+nodal arrhythmia,71792006
+nodal rhythm disorder,71792006
+cardiac arrest ventricular fibrillation,71908006
+vf ventricular fibrillation,71908006
+right branch block incomplete anterior fascicular block and incomplete posterior fascicular block,73459006
+posterior myocardial infarction,73999000
+anterior myocardial infarction,54329005
+bifascicular block,74021003
+ventricular pre excitation with arrhythmia,74390002
+wolff parkinson white pattern,74390002
+wolff parkinson white syndrome,74390002
+wpw wolff parkinson white syndrome,74390002
+brady tachy syndrome,74615001
+bradycardia tachycardia syndrome,74615001
+tachycardia bradycardia,74615001
+tachycardia bradycardia syndrome,74615001
+ventricular escape beat,75532003
+anterior fascicular block posterior fascicular block and incomplete right bundle branch block,76887001
+decreased qt interval,77867006
+shortened qt interval,77867006
+chronic rheumatic pericarditis,78069008
+cardiac arrest due to pacemaker failure,78240009
+acute right sided congestive heart failure,80479009
+ventricular escape rhythm,81898007
+diffuse intraventricular block,82226007
+myofibrillar intraventricular block,82226007
+congestive rheumatic heart failure,82523003
+atrial dilatation,82608003
+irregular tachycardia,82838007
+malignant hypertensive heart disease with congestive cardiac failure,83105008
+malignant hypertensive heart disease with congestive heart failure,83105008
+cor pulmonale,83291003
+right heart failure due to disorder of lung,83291003
+right heart failure due to pulmonary disease,83291003
+cardiac failure,84114007
+cardiac insufficiency,84114007
+hf heart failure,84114007
+myocardial failure,84114007
+weak heart,84114007
+multifascicular block,86014007
+chronic rheumatic carditis,87648004
+chronic rheumatic heart disease,87648004
+chronic congestive heart failure,88805009
+right ventricular hypertrophy,89792004
+rv hypertrophy,89792004
+rvh right ventricle hypertrophy,89792004
+rvh right ventricular hypertrophy,89792004
+cardiac insufficiency during and or resulting from a procedure,89819002
+chronic rheumatic mediastinopericarditis,90453003
+sudden cardiac death,95281009
+disorder of cardiac function,105981003
+functional cardiac disorder,105981003
+chronic inactive rheumatic heart disease,111284004
+increased qt interval,111975006
+prolonged qt interval,111975006
+prolonged q t interval,111975006
+increased qt,111975006
+prolonged qt,111975006
+prolonged q t,111975006
+q-t interval extended,111975006
+electrocardiogram finding of infarction,164865005
+myocardial infarction,164865005
+myocardial injury,164865005
+old myocardial infarction,164867002
+old myocardial ischemia,164867002 
+antero septal infarct,164868007
+anteroseptal infarction,164868007
+anteroseptal infarction on electrocardiogram,164868007
+posterior inferior infarct,164869004
+subendocardial infarct,164870003
+lateral infarction,164871004
+lateral infarction on electrocardiogram,164871004
+left ventricle hypertrophy,164873001
+left ventricular hypertrophy,164873001
+lv hypertrophy,164873001
+lv+ left ventricular hypertrophy,164873001
+lvh,164873001
+lvh left ventricular hypertrophy,164873001
+right ventricle hypertrophy,164877000
+extrasystole,164883002
+pvcs premature ventricular complexes,164884008
+ventricular ectopics,164884008
+atrial ectopics,164885009
+supraventricular arrhythmia,164887001
+supraventricular arrhythmia absent on electrocardiogram,164888006
+af atrial fibrillation,164889003
+atrial fibrillation,164889003
+atrial flutter,164890007
+paroxysmal atrial tachy,164891006
+paroxysmal atrial tachycardia,164891006
+ventricular arrhythmia,164893009
+ventricular tachycardia,164895002
+ventricular fibrillation,164896001
+hb heart block,164898000
+heart block,164898000
+partial sinoatrial block,164900003
+complete sinoatrial block,164901004
+partial atrioventricular block long pr,164902006
+partial atrioventricular block 2:1,164903001
+partial atrioventricular block 3:1,164904007
+mobitz type i incomplete atrioventricular block on electrocardiogram,164905008
+mobitz type i second degree atrioventricular block on electrocardiogram,164905008
+wenckebach phenomenon,164905008
+complete atrioventricular block,164906009
+lbbb left bundle branch block,164909002
+left bundle branch block,164909002
+p wave abnormal,164912004
+p mitrale,164913009
+p pulmonale,164914003
+qwave abnormal,164917005
+q wave abnormal,164917005
+pathological q wave,164918000
+r wave abnormal,164921003
+poor r-wave increment,164921003
+tall r wave,164922005
+s wave abnormal,164925007
+deep s wave,164926008
+s t interval abnormal,164930006
+st interval abnormal,164930006
+st elevation,164931005
+st segment elevation,164931005
+st changing,164930006
+t wave abnormal,164934002
+t wave abnormalities,164934002
+u wave abnormal,164937009
+u wave exaggerated,164938004
+u wave increase,164937009
+f wave present,164942001
+p r interval abnormal,164946003
+prolonged p r interval,164947007
+prolonged pr interval,164947007
+qrs complex abnormal,164951009
+acute chagas' disease with heart involvement,186813004
+benign hypertensive heart disease with congestive cardiac failure,194767001
+left main stem bundle branch block,195046004
+ventricular pre excitation,195060002
+pre-excitation syndrome,195060002
+atrial paroxysmal tachycardia,195069001
+pat,195069001
+pat paroxysmal atrial tachycardia,195069001
+atrioventricular paroxysmal tachycardia,195070000
+av paroxysmal tachycardia,195070000
+paroxysmal atrioventricular tachycardia,195070000
+atrial fibrillation and flutter,195080001
+wandering atrial pacemaker,195101003
+re entry ventricular arrhythmia,195105007
+decompensated cardiac failure,195111005
+compensated cardiac failure,195112003
+atrial hypertrophy,195126007
+left atrial enlargement,67741000119109
+right atrial enlargement,67751000119106
+post cardiac operation functional disturbance,195130005
+congenital cardiac failure,206586007
+sinoatrial node tachycardia,233891009
+ectopic atrial tachycardia,233892002
+atrial muscle re entrant tachycardia,233893007
+re entrant atrial tachycardia,233893007
+incessant atrial tachycardia,233894001
+avrt atrioventricular re entrant tachycardia,233897008
+re entrant atrioventricular tachycardia,233897008
+orthodromic atrioventricular re entrant tachycardia,233898003
+antidromic atrioventricular re entrant tachycardia,233899006
+supraventricular tachycardia with functional bundle branch block,233900001
+his bundle tachycardia,233901002
+congenital his bundle tachycardia,233902009
+postoperative his bundle tachycardia,233903004
+lone atrial fibrillation,233910005
+non rheumatic atrial fibrillation,233911009
+nraf non rheumatic atrial fibrillation,233911009
+familial sick sinus syndrome,233913007
+postoperative sinoatrial disease,233914001
+postoperative sinus node dysfunction,233914001
+sinus node dysfunction following surgical procedure,233914001
+paroxysmal familial ventricular fibrillation,233915000
+atrioventricular block,233917008
+av block,233917008
+avb atrioventricular block,233917008
+atrioventricular conduction block,233917008
+complete atrioventricular block,27885002
+third degree atrioventricular block,27885002
+third degree heart block,27885002
+complete heart block,27885002
+chb complete heart block,27885002
+high grade atrioventricular block,27885002
+congenital complete atrioventricular heart block,204383001
+acquired complete atrioventricular block,733125004
+postoperative complete heart block,233918003
+complete atrioventricular block due to atrioventricular nodal ablation,102451000119107
+complete atrioventricular block as complication of atrioventricular nodal ablation,102451000119107
+partial atrioventricular block,195039008
+incomplete atrioventricular block,195039008
+incomplete heart block,195039008
+partial heart block,195039008
+first degree atrioventricular block,270492004
+first degree heart block,270492004
+1st degree av block,270492004
+incomplete atrioventricular block first degree,270492004
+incomplete atrioventricular block with atrioventricular response,77221000
+second degree atrioventricular block,195042002
+incomplete atrioventricular block second degree,195042002
+second degree heart block,195042002
+2nd degree av block,195042002
+intermittent second degree atrioventricular block,251114004
+mobitz type ii atrioventricular block,28189009
+mobitz type ii incomplete atrioventricular block,28189009
+second degree mobitz type ii incomplete atrioventricular block,28189009
+mobitz type 2 second degree atrioventricular block,28189009
+mobitz type i incomplete atrioventricular block,54016002
+wenckebach's phenomenon,54016002
+wenckebach's incomplete av block,54016002
+mobitz type 1 second degree atrioventricular block,54016002
+mobitz type i wenckebach atrioventricular block,54016002
+high degree second degree atrioventricular block,284941000119107
+high grade second degree av block,284941000119107
+congenital incomplete atrioventricular heart block,204384007
+congenital incomplete av block,204384007
+postoperative atrioventricular block,284951000119109
+atrioventricular block due to endocarditis,472809000
+myocardial dysfunction,233928007
+myocardial depression,233928007
+ischemic myocardial dysfunction,281091000
+ischaemic myocardial dysfunction,281091000
+generalized ischemic myocardial dysfunction,194849004
+ischemic cardiomyopathy,194849004
+familial isolated complete right bundle branch block,233919006
+concealed accessory pathway,233922008
+unidirectional retrograde accessory pathway,233923003
+urap unidirectional retrograde accessory pathway,233923003
+cardiac arrest with successful resuscitation,233927002
+cardiac transplant rejection,233933006
+cardiac transplant failure,233934000
+cardiac arrest with electromechanical dissociation,234172002
+electromechanical dissociation,234172002
+emd,234172002
+pea pulseless electrical activity,234172002
+leakage due to cardiac device,234180009
+sinus arrest with atrial escape,251092003
+sinus arrest with junctional escape,251093008
+sinus arrest with ventricular escape,251094002
+atrioventricular slow nodal pathway,251098004
+type a wolff parkinson white pattern,251116002
+type b wolff parkinson white pattern,251117006
+lown ganong levine pattern,251118001
+ventricular conduction pattern,251119009
+incomplete left bundle branch block,251120003
+minor intraventricular conduction defect,251125008
+rsr pattern in v1 and v2,251126009
+digitalis ecg pattern,251137005
+digitalis electrocardiogram pattern,251137005
+inadequate ecg tracing,251138000
+inadequate electrocardiogram tracing,251138000
+suspect arm ecg leads reversed,251139008
+suspect arm electrocardiogram leads reversed,251139008
+poor ecg quality,251140005
+poor electrocardiogram quality,251140005
+acquisition hardware ecg error,251141009
+acquisition hardware electrocardiogram error,251141009
+noisy ecg recording,251142002
+noisy electrocardiogram recording,251142002
+ecg artefacts,251143007
+electrocardiogram artefact,251143007
+postoperative ecg changes,251144001
+postoperative electrocardiogram changes,251144001
+low qrs voltages,251146004
+low qrs voltages in the limb leads,251147008
+low qrs voltages in the precordial leads,251148003
+marked sinus arrhythmia,251152003
+junctional ectopic tachycardia,251155001
+slow ventricular response,251161003
+junctional premature complex,251164006
+junctional premature depolarisation,251164006
+junctional premature depolarization,251164006
+occasional junctional premature contractions,251164006
+occasional junction premature contractions,251164006
+aberrant premature complexes,251167004
+supraventricular bigeminy,251168009
+blocked premature atrial contraction,251170000
+multiple atrial premature complexes,251171001
+run of atrial premature complexes,251172008
+atrial bigeminy,251173003
+atrial trigeminy,251174009
+premature ventricular complex,251175005
+ventricular ectopic complex,251175005
+ventricular premature complex,251175005
+ventricular premature depolarisation,251175005
+ventricular premature depolarization,251175005
+multiple premature ventricular complexes,251176006
+run of ventricular premature complexes,251177002
+ventricular interpolated complexes,251178007
+multiple ventricular interpolated complexes,251179004
+ventricular trigeminy,251180001
+ventricular quadrigeminy,251181002
+paired ventricular premature complexes,251182009
+aberrantly conducted complex,251183004
+ventricular escape complex,251186007
+atrial escape complex,251187003
+atrial parasystole,251188008
+p wave left axis deviation,251193006
+p wave right axis deviation,251194000
+clockwise cardiac rotation,251198002
+anticlockwise cardiac rotation,251199005
+counterclockwise cardiac rotation,251199005
+indeterminate cardiac axis,251200008
+prolonged p wave,251205003
+shortened p wave,251206002
+shortened st segment,251209009
+prolonged t wave,251211000
+shortened t wave,251212007
+prolonged tu interval,251214008
+shortened tu interval,251215009
+prolonged u wave,251217001
+shortened u wave,251218006
+inverted p wave,251221008
+flattened p wave,251222001
+tall p wave,251223006
+q wave height increased,251225004
+q wave height decreased,251226003
+r wave height increased,251228002
+r wave height decreased,251229005
+s wave height increased,251231001
+s wave height decreased,251232008
+qrs complex height increased,251234009
+qrs complex height decreased,251235005
+tall t wave,251237002
+tall tented t wave,251238007
+inverted u wave,251240002
+flattened u wave,251241003
+tall u wave,251242005
+pr elevation,251244006
+pr depression,251245007
+bifid p wave,251248009
+sloping pr interval,251255006
+sloping st segment,251256007
+reverse tick st segment,251257003
+bifid t wave,251258008
+high t voltage,251259000
+tu elevation,251260005
+tu depression,251261009
+flat u wave,251262002
+low u wave,251263007
+bifid u wave,251264001
+ventricular pacing pattern,251266004
+atrio ventricular sequential pacing pattern,251267008
+av sequential pacing pattern,251267008
+atrial pacing pattern,251268003
+rhythm from artificial pacing,10370003
+pacing rhythm,10370003
+ineffective artificial pacemaker pattern,251269006
+stress ecg equivocal,251274003
+stress electrocardiogram equivocal,251274003
+ra right atrial abnormality,253339007
+right atrial abnormality,253339007
+abnormality of right atrial appendage,253344000
+right atrial appendage absent,253345004
+right atrial appendage left juxtaposition,253346003
+right atrial dilatation,253350005
+giant right atrium,253351009
+la left atrial abnormality,253352002
+left atrial abnormality,253352002
+left atrial dilatation,253361002
+giant left atrium,253362009
+right ventricle abnormality,253516002
+right ventricular abnormality,253516002
+rv right ventricular abnormality,253516002
+right ventricular dilatation,253522006
+left ventricle abnormality,253535002
+lv left ventricle abnormality,253535002
+circulatory arrest,261195002
+ventricular hypertrophy,266249003
+juvenile ecg pattern,276309009
+juvenile electrocardiogram pattern,276309009
+cardiac failure developing in the perinatal period,276514007
+awareness of heart beat,277766008
+atrioventricular tachycardia,278482008
+af paroxysmal atrial fibrillation,282825002
+intermittent atrial fibrillation,282825002
+paf paroxysmal atrial fibrillation,282825002
+paroxysmal atrial fibrillation,282825002
+lenegre lev syndrome,283645003
+lenegre syndrome,283645003
+lev lenègre disease,283645003
+lev syndrome,283645003
+lev's disease,283645003
+lev's syndrome,283645003
+progressive cardiac conduction defect,283645003
+progressive familial heart block type ia,283645003
+atrial extrasystoles,284470004
+atrial premature contractions,284470004
+atrial premature systoles,284470004
+pac premature atrial contraction,284470004
+premature atrial contraction,284470004
+frequent premature atrial contractions,284470004
+atrial premature complex,287057009
+atrial premature depolarisation,287057009
+atrial premature depolarization,287057009
+controlled atrial fibrillation,300996004
+asymptomatic sinoatrial node dysfunction,300997008
+observation of tu interval,301118005
+electromechanical dissociation with successful resuscitation,309809007
+refractory heart failure,314206003
+rapid atrial fibrillation,314208002
+congenital conduction defect,315027009
+acute right sided heart failure,359617009
+cardiac complication of procedure,362999008
+pr interval finding,365411005
+pacemaker ecg pattern finding,366167000
+cardiac conduction pattern finding,366175006
+atrioventricular conduction pattern finding,366177003
+right ventricular failure,367363000
+left ventricular strain,370365005
+acute ventricular septal rupture,371817007
+acs acute coronary syndrome,394659003
+acute coronary syndrome,394659003
+cardiac standstill,397829000
+t wave changes only,399373003
+ectopic atrial beats,406461004
+cardiac arrest,410429000
+acute ischaemic heart disease,413439005
+acute ischemic heart disease,413439005
+chronic ischaemic heart disease,413838009
+chronic ischemic heart disease,413838009
+disorder of cardiac ventricle,415991003
+disorder of right cardiac ventricle,415992005
+disorder of left cardiac ventricle,415993000
+systolic heart failure,417996009
+diastolic heart failure,418304008
+atrioventricular conduction disorder,418341009
+right atrial incisional tachycardia,418493005
+brugada syndrome,418818005
+incisional tachycardia,419400008
+sinoatrial nodal reentrant tachycardia,419752005
+sinoatrial reentrant tachycardia,419752005
+left atrial incisional tachycardia,420002000
+bradyarrhythmia,421869004
+cardiac arrest due to trauma,422970001
+cardiac arrest due to respiratory disorder,423168004
+cardiac arrest due to cardiac disorder,423191000
+electrical alternans,423863005
+electrical alternation of heart,423863005
+decompensated chronic heart failure,424404003
+cardiac arrest due to drowning,424571008
+left sided heart,424889004
+sinistrocardia,424889004
+inferior ischaemia,425419005
+inferior ischemia,425419005
+inappropriate sinus tachycardia,425582007
+chronic atrial flutter,425615007
+lateral ischaemia,425623009
+lateral ischemia,425623009
+paroxysmal ventricular tachycardia,425856008
+right heart failure due to pulmonary hypertension,426012001
+pacemaker active,426083000
+idioventricular rhythm,426151009
+sinus bradycardia,426177001
+mobitz type ii atrioventricular block,426183003
+congestive heart failure due to left ventricular systolic dysfunction,426263006
+junctional rhythm,426307007
+anterior ischaemia,426434006
+anterior ischemia,426434006
+paced rhythm,426453001
+congestive heart failure due to valvular disease,426611007
+bradycardia,426627000
+junctional tachycardia,426648003
+accelerated junctional rhythm,426664006
+ectopic beats unifocal premature ventricular contractions,426669001
+ectopic beats with unifocal premature ventricular contractions,426669001
+chronic atrial fibrillation,426749004
+supraventricular tachycardia,426761007
+sinus rhythm,426783006
+torsades de pointes,426882006
+ventricular tachycardia polymorphic with long qt interval,426882006
+pulseless electrical activity,426975008
+junctional escape rhythm,426995002
+junctional escape,426995002
+sinus tachycardia,427084000
+borderline tachycardia,427084000
+tachycardia,427084000
+premature ventricular contractions,427172004
+ectopic beats premature atrial contraction,427212000
+ectopic beats with premature atrial contraction,427212000
+sinus arrhythmia,427393009
+asystole,427485008
+ectopic beats with multifocal premature ventricular contractions,427581001
+ectopic beats with multifocal premature ventricular contractions,427581001
+paroxysmal atrial flutter,427665004
+ventricular flutter,111288001
+ventricular fibrillation and flutter,195083004
+early repolarization,428417006
+t wave alternans on electrocardiogram,428418001
+secondary st t abnormality on electrocardiogram,428549008
+nonspecific st t abnormality,428750005
+st-t abnormality,428750005
+st-t changing,428750005
+improvement of left ventricular wall motion compared to prior study,428825004
+decreased myocardial ischaemia compared to prior study,429232006
+decreased myocardial ischemia compared to prior study,429232006
+sustained ventricular fibrillation,429243003
+disorder of transplanted heart,429257001
+increased myocardial ischaemia compared to prior study,429477006
+increased myocardial ischemia compared to prior study,429477006
+myocardial ischaemia,164861001
+myocardial ischemia,164861001
+primary hypertrophic cardiomyopathy,700065003
+primary familial hypertrophic cardiomyopathy,83978005
+cardiomyopathy and renal anomaly syndrome,720610008
+arrhythmogenic right ventricular cardiomyopathy,281170005
+cardiac ischemia,164861001
+acute myocardial ischemia,413444003
+acute myocardial ischaemia,413444003
+chronic myocardial ischemia,413844008
+chronic myocardial ischaemia,413844008
+chronic coronary insufficiency,413844008
+silent myocardial ischemia,233823002
+silent myocardial ischaemia,233823002
+asymptomatic ischemia,233823002
+asymptomatic ischaemia,233823002
+st depression,429622005
+st segment depression,429622005
+accelerated rejection of cardiac transplant,431186002
+chronic rejection of cardiac transplant,431896008
+acute rejection of cardiac transplant,432843002
+permanent atrial fibrillation,440028005
+persistent atrial fibrillation,440059007
+chronic systolic heart failure,441481004
+chronic diastolic heart failure,441530006
+bundle branch reentrant ventricular tachycardia,442559009
+congenital long qt syndrome,442917000
+inherited long qt syndrome,442917000
+acquired long qt syndrome,442946007
+acute on chronic systolic heart failure,443253003
+acute systolic heart failure,443254009
+acute diastolic heart failure,443343001
+acute on chronic diastolic heart failure,443344007
+heart block caused by drug,443478002
+heart block due to drug,443478002
+symptomatic sinus bradycardia,444605001
+arteriosclerosis of coronary artery bypass graft of transplanted heart,444855007
+left anterior fascicular block,445118002
+left anterior fascicular block on electrocardiogram,445118002
+left posterior fascicular block,445211001
+left posterior fascicular block on electrocardiogram,445211001
+cardiorenal syndrome,445236007
+right bundle branch block and left anterior fascicular block on electrocardiogram,445263008
+trifascicular block,445309007
+concordant atrioventricular connections,445363005
+right bundle branch block and left posterior fascicular block on electrocardiogram,445393004
+right atrial hypertrophy,446358003
+left atrial hypertrophy,446813000
+spontaneous closure of foramen ovale,447270007
+spontaneous closure of ventricular component of atrioventricular septal defect,447777009
+thin cardiac ventricular septum,447923000
+thin ventricular septum,447923000
+atrial septum intact,448006009
+right ventricle anterior to left ventricle,448279005
+atrial situs solitus,448358007
+usual atrial arrangement,448358007
+right ventricle superior to left ventricle,448359004
+spontaneous closure of atrial component of atrioventricular septal defect,448814004
+outflow tract abnormality in solitary indeterminate ventricle,448898002
+abnormal motion of ventricular septum,449244003
+outflow tract obstruction in solitary indeterminate ventricle,449542003
+paradoxical motion of ventricular septum,449543008
+subaortic outflow tract obstruction in solitary indeterminate ventricle,449602001
+subpulmonary outflow tract obstruction in solitary indeterminate ventricle,449604000
+atrial arrest,450919004
+atrial standstill,450919004
+long qt syndrome with genetic marker,460495004
+cardiac abnormality due to heart abscess,461089003
+spontaneous closure of residual atrial septal defect within oval fossa,461092004
+disorder of right atrium,472762000
+disorder of left atrium,472763005
+disorder of right atrium as complication of procedure,472764004
+disorder of left atrium as complication of procedure,472766002
+arrhythmia due to vegetation of infectious endocarditis,472810005
+arrhythmia due to vegetation of infective endocarditis,472810005
+vagal autonomic bradycardia of prematurity,473006003
+vagal sinus bradycardia of prematurity,473006003
+left atrial thrombus,473360003
+cardiac dysrhythmia,698247007
+disorder of heart rhythm,698247007
+progressive familial heart block,698249005
+progressive familial heart block type ib,698250005
+progressive familial heart block type ii,698251009
+non specific intraventricular conduction defect,698252002
+non specific intraventricular conduction delay,698252002
+nonspecific intraventricular conduction disorder,698252002
+intraventricular conduction block,698252002
+cardiac arrhythmia associated with genetic disorder,698270004
+cardiac channelopathy,698271000
+short qt syndrome,698272007
+familial short qt syndrome,698273002
+genetic short qt syndrome,698273002
+acute exacerbation of chronic congestive heart failure,698296002
+acute on chronic congestive heart failure,698296002
+symptomatic congestive heart failure,698594003
+long qt syndrome with syndactyly,699256006
+timothy syndrome classic type,699256006
+timothy syndrome type 1,699256006
+bradycardic cardiac arrest,703162001
+inverted biphasic anterior t wave,704996001
+wellens' syndrome variant,704996001
+wellens' variant t wave,704996001
+inferior st segment depression,704997005
+diffuse st segment depression,704998000
+anterior t wave inversion,704999008
+lateral st segment elevation,705006002
+inferior st segment elevation,705007006
+anterior st segment elevation,705008001
+posterior st segment depression,705009009
+posterior st segment elevation,705010004
+anterior st segment depression,705011000
+anterior and lateral st segment elevation,705012007
+inferior and lateral st segment elevation,705013002
+inferior and right sided st segment elevation,705095008
+deep symmetric anterior t wave inversion,705096009
+wellens syndrome,705096009
+longstanding persistent atrial fibrillation,706923002
+mahaim fiber tachycardia,710878005
+mahaim fibre tachycardia,710878005
+electrocardiogram showing paced rhythm with electrical capture,711447007
+electrocardiogram showing electrical capture following temporary pacing,711449005
+ventricular tachycardia polymorphic,713420008
+ventricular tachycardia monomorphic,713421007
+atrial tachycardia,713422000
+multifocal atrial tachycardia,713423005
+focal atrial tachycardia,713424004
+incomplete right bundle branch block,713426002
+complete right bundle branch block,713427006
+familial atrial fibrillation,715395008
+long qt syndrome caused by drug,715971003
+cardiac arrest during surgery,716050002
+congestive heart failure stage b,717840005
+stoll kieny dott syndrome,719823007
+ventricular extrasystoles with syncope perodactyly and robin sequence syndrome,719823007
+timothy syndrome atypical type,719907006
+timothy syndrome type 2,719907006
+atrial flutter type 1,720448006
+atrial flutter type i,720448006
+typical atrial flutter,720448006
+occasional ectopic premature contractions,427172004
+frequent ectopic premature contractions,427172004
+borderline premature contractions,427172004
+frequent borderline premature beats,427172004
+frequent borderline premature contractions,427172004
+frequent premature contractions,427172004
+occasional borderline premature beats,427172004
+occasional borderline premature contractions,427172004
+occasional premature contractions,427172004
+spontaneous borderline premature beats,427172004
+t changing,164934002
